@@ -1,0 +1,38 @@
+D:\OneDrive\Documents\JOB\Projects\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\MvvmDialogs.dll.config
+D:\OneDrive\Documents\JOB\Projects\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\MvvmDialogs.dll
+D:\OneDrive\Documents\JOB\Projects\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\MvvmDialogs.pdb
+D:\OneDrive\Documents\JOB\Projects\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\GalaSoft.MvvmLight.dll
+D:\OneDrive\Documents\JOB\Projects\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\GalaSoft.MvvmLight.Extras.dll
+D:\OneDrive\Documents\JOB\Projects\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\OneDrive\Documents\JOB\Projects\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\System.Windows.Interactivity.dll
+D:\OneDrive\Documents\JOB\Projects\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\GalaSoft.MvvmLight.pdb
+D:\OneDrive\Documents\JOB\Projects\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\GalaSoft.MvvmLight.xml
+D:\OneDrive\Documents\JOB\Projects\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+D:\OneDrive\Documents\JOB\Projects\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\GalaSoft.MvvmLight.Extras.xml
+D:\OneDrive\Documents\JOB\Projects\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\OneDrive\Documents\JOB\Projects\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\Microsoft.Practices.ServiceLocation.xml
+D:\OneDrive\Documents\JOB\Projects\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\System.Windows.Interactivity.xml
+D:\OneDrive\Documents\JOB\Projects\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\obj\Release\MvvmDialogs.csprojAssemblyReference.cache
+D:\OneDrive\Documents\JOB\Projects\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\obj\Release\MvvmDialogs.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\JOB\Projects\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\obj\Release\MvvmDialogs.csproj.CopyComplete
+D:\OneDrive\Documents\JOB\Projects\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\obj\Release\MvvmDialogs.dll
+D:\OneDrive\Documents\JOB\Projects\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\obj\Release\MvvmDialogs.pdb
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\MvvmDialogs.dll.config
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\MvvmDialogs.dll
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\MvvmDialogs.pdb
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\GalaSoft.MvvmLight.dll
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\GalaSoft.MvvmLight.Extras.dll
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\System.Windows.Interactivity.dll
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\GalaSoft.MvvmLight.pdb
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\GalaSoft.MvvmLight.xml
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\GalaSoft.MvvmLight.Extras.xml
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\Microsoft.Practices.ServiceLocation.xml
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\bin\Release\System.Windows.Interactivity.xml
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\obj\Release\MvvmDialogs.csprojAssemblyReference.cache
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\obj\Release\MvvmDialogs.csproj.CoreCompileInputs.cache
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\obj\Release\MvvmDialogs.csproj.CopyComplete
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\obj\Release\MvvmDialogs.dll
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\obj\Release\MvvmDialogs.pdb

@@ -1,0 +1,4 @@
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\obj\Debug\DocumentOrganizer_2.UIDialogs.csprojAssemblyReference.cache
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\obj\Debug\DocumentOrganizer_2.UIDialogs.Properties.Resources.resources
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\obj\Debug\DocumentOrganizer_2.UIDialogs.csproj.GenerateResource.cache
+D:\Sabir`s Documents\Visual Studio 2017\Solutions\DocumentOrganizer_2\DocumentOrganizer_2.UIDialogs\obj\Debug\DocumentOrganizer_2.UIDialogs.csproj.CoreCompileInputs.cache

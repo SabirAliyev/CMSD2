@@ -1,0 +1,15 @@
+E:\Main Projects\CMSD2\CMSD2_Table\obj\Debug\CMSD2_Table.exe
+E:\Main Projects\CMSD2\CMSD2_Table\obj\Debug\CMSD2_Table.pdb
+E:\Main Projects\CMSD2\CMSD2_Table\bin\Debug\CMSD2_Table.exe.config
+E:\Main Projects\CMSD2\CMSD2_Table\bin\Debug\CMSD2_Table.exe
+E:\Main Projects\CMSD2\CMSD2_Table\bin\Debug\CMSD2_Table.pdb
+E:\Main Projects\CMSD2\CMSD2_Table\bin\Debug\CMSD2_Model.exe
+E:\Main Projects\CMSD2\CMSD2_Table\bin\Debug\CMSD2_Model.pdb
+E:\Main Projects\CMSD2\CMSD2_Table\bin\Debug\CMSD2_Model.exe.config
+E:\Main Projects\CMSD2\CMSD2_Table\obj\Debug\CMSD2.Table.csprojAssemblyReference.cache
+E:\Main Projects\CMSD2\CMSD2_Table\obj\Debug\App.g.cs
+E:\Main Projects\CMSD2\CMSD2_Table\obj\Debug\CMSD2_Table_MarkupCompile.cache
+E:\Main Projects\CMSD2\CMSD2_Table\obj\Debug\CMSD2_Table.Properties.Resources.resources
+E:\Main Projects\CMSD2\CMSD2_Table\obj\Debug\CMSD2.Table.csproj.GenerateResource.cache
+E:\Main Projects\CMSD2\CMSD2_Table\obj\Debug\CMSD2.Table.csproj.CoreCompileInputs.cache
+E:\Main Projects\CMSD2\CMSD2_Table\obj\Debug\CMSD2.Table.csproj.CopyComplete

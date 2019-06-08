@@ -1,0 +1,10 @@
+E:\Main Projects\CMSD2\CMSD2_Model\obj\Debug\CMSD2_Model.exe
+E:\Main Projects\CMSD2\CMSD2_Model\obj\Debug\CMSD2_Model.pdb
+E:\Main Projects\CMSD2\CMSD2_Model\bin\Debug\CMSD2_Model.exe.config
+E:\Main Projects\CMSD2\CMSD2_Model\bin\Debug\CMSD2_Model.exe
+E:\Main Projects\CMSD2\CMSD2_Model\bin\Debug\CMSD2_Model.pdb
+E:\Main Projects\CMSD2\CMSD2_Model\obj\Debug\App.g.cs
+E:\Main Projects\CMSD2\CMSD2_Model\obj\Debug\CMSD2_Model_MarkupCompile.cache
+E:\Main Projects\CMSD2\CMSD2_Model\obj\Debug\CMSD2_Model.Properties.Resources.resources
+E:\Main Projects\CMSD2\CMSD2_Model\obj\Debug\CMSD2.Model.csproj.GenerateResource.cache
+E:\Main Projects\CMSD2\CMSD2_Model\obj\Debug\CMSD2.Model.csproj.CoreCompileInputs.cache
